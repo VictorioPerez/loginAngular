@@ -1,0 +1,12 @@
+.container{
+    margin-top: 100px;
+}
+.containerLogin{
+    width: 300px;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 20px;
+}
+button{
+    width: 258px;
+}
